@@ -4,15 +4,18 @@
 
 # weekly
 
-<div style="text-align: justify">
-En Weekly, todos los mensajes se borran cada semana. Esto significa que siempre verás contenido fresco y relevante. Además, también ayuda a reducir la cantidad de información obsoleta en la plataforma, fomentando la creación de contenido nuevo y evitando que la plataforma se llene de publicaciones antiguas.
-
-Puedes configurar el contenido que quieres ver fácilmente desde los ajustes. Selecciona o quita tus gustos en cualquier momento y sólo verás el contenido que realmente te interesa, ahorrando tiempo y permitiéndote centrarte en lo que te importa.
-
-Además, Weekly es una red social totalmente gratuita y sin publicidad. No tendrás que preocuparte por anuncios molestos o intrusivos mientras usas la plataforma. Otro gran punto fuerte de Weekly es que no hay concepto de seguidores. No tienes que preocuparte por conseguir seguidores para que tus publicaciones sean vistas por otros, tus publicaciones se ordenarán automáticamente según el interés del resto de usuarios.
+<p align="justify">
+  En Weekly, todos los mensajes se borran cada semana. Esto significa que siempre verás contenido fresco y relevante. Además, también ayuda a reducir la cantidad de información obsoleta en la plataforma, fomentando la creación de contenido nuevo y evitando que la plataforma se llene de publicaciones antiguas.
+</p>
+<p align="justify">
+  Puedes configurar el contenido que quieres ver fácilmente desde los ajustes. Selecciona o quita tus gustos en cualquier momento y sólo verás el contenido que realmente te interesa, ahorrando tiempo y permitiéndote centrarte en lo que te importa.
+</p>
+<p align="justify">
+  Además, Weekly es una red social totalmente gratuita y sin publicidad. No tendrás que preocuparte por anuncios molestos o intrusivos mientras usas la plataforma. Otro gran punto fuerte de Weekly es que no hay concepto de seguidores. No tienes que preocuparte por conseguir seguidores para que tus publicaciones sean vistas por otros, tus publicaciones se ordenarán automáticamente según el interés del resto de usuarios.
+</p>
 </div>
 
-<div style="text-align: center">
+<div align="center">
   <a href="https://weeklyapp.es">
     <img src="https://img.shields.io/badge/Visitar_weekly-green" alt="weekly" height="30"/>
   </a>
@@ -20,16 +23,19 @@ Además, Weekly es una red social totalmente gratuita y sin publicidad. No tendr
 
 ### Capturas de pantalla:
 En smartphone:
-<p align="center">
-  <img style="display: inline; margin: 0 auto;" src="./capturas/2.png" width="275"/>
-  <img style="display: inline; margin: 0 auto;" src="./capturas/3.png" width="275"/>
-  <img style="display: inline; margin: 0 auto;" src="./capturas/1.png" width="275"/>
-</p>
+<div align="center">
+  <img style="display: inline; margin: 0 auto;" src="./capturas/2.png" width="250"/>
+  <img style="display: inline; margin: 0 auto;" src="./capturas/3.png" width="250"/>
+  <img style="display: inline; margin: 0 auto;" src="./capturas/1.png" width="250"/>
+</div>
 
 ### Uso:
-La web está alojada en un servidor, por lo que se puede acceder a ella desde cualquier navegador web.
-
-Si se desea usar en local, se puede descargar el repositorio y ejecutarlo en un servidor local. Para ello, se puede utilizar XAMPP, que es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script: PHP y Perl. Se explica en el siguiente apartado.
+<p align="justify">
+  La web está alojada en un servidor, por lo que se puede acceder a ella desde cualquier navegador web.
+</p>
+<p align="justify">
+  Si se desea usar en local, se puede descargar el repositorio y ejecutarlo en un servidor local. Para ello, se puede utilizar XAMPP, que es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script: PHP y Perl. Se explica en el siguiente apartado.
+</p>
 
 ### Instalación en local:
 - Descargar e instalar XAMPP desde su [página web](https://www.apachefriends.org/es/index.html).
@@ -80,7 +86,7 @@ A continuación se muestra el flujo de navegación de Weekly. En él se puede ob
 
 ### Contacto:
 Para cualquier duda o sugerencia, no dudes en contactar conmigo.
-<div style="text-align: center">
+<div align="center">
   <a href="https://www.linkedin.com/in/franciscovargasguerrero/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
