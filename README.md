@@ -24,9 +24,9 @@
 ### Capturas de pantalla:
 En smartphone:
 <div align="center">
-  <img style="display: inline; margin: 0 auto;" src="./capturas/1.png" width="260"/>
-  <img style="display: inline; margin: 0 auto;" src="./capturas/2.png" width="260"/>
-  <img style="display: inline; margin: 0 auto;" src="./capturas/3.png" width="260"/>
+  <img style="display: inline; margin: 0 auto;" src="./capturas/1.png" width="265"/>
+  <img style="display: inline; margin: 0 auto;" src="./capturas/2.png" width="265"/>
+  <img style="display: inline; margin: 0 auto;" src="./capturas/3.png" width="265"/>
 </div>
 
 ### Uso:
