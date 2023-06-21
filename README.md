@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="display: inline; width: 200px;" src="./weekly/img/logo.png" />
+  <img style="display: inline; width: 500px;" src="./capturas/logo.png" />
 </p>
 
 # weekly
